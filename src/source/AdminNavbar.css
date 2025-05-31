@@ -1,0 +1,35 @@
+.custom-navbar {
+    background-color: #343a40; /* Customize as needed */
+  }
+  
+  .navbar-brand {
+    color: #fff;
+    cursor: pointer; /* Customize as needed */
+  }
+  .navbar-brand:hover {
+    color:orange; /* Customize as needed */
+  }
+  
+  .nav-link {
+    color: #fff; /* Customize as needed */
+  }
+
+  .nav-link:hover {
+    color: orange; /* Customize as needed */
+  }
+  
+  .nav-link.logout-icon {
+    display: flex;
+    align-items: center;
+    transition: color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .nav-link.logout-icon:hover {
+    color: orangered; /* Color change on hover */
+    transform: scale(1.1); /* Slightly increase size on hover */
+  }
+  
+  .nav-link.logout-icon svg {
+    vertical-align: middle;
+  }
+  
