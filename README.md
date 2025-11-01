@@ -70,6 +70,7 @@ Configure application.properties for your MySQL database.
 ## 👨‍💻 Developed by:
 
 Anand B
+
 MCA Graduate | Full-Stack Java Developer | Cryptoproctor In Elevating Online Through Blockchain Technology
 
 
