@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# CryptoProctor –  CRYPTOPROCTOR IN ELEVATING ONLINE EXAMS THROUGH BLOCKCHAIN TECHNOLOGY
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description:
+CryptoProctor is a secure,Blockchain Based on online examination system designed to conduct, monitor, and evaluate exams remotely. It integrates blockchain-inspired security, face detection, and real-time proctoring to ensure exam integrity. Built using Java (Spring Boot) for the backend and React.js for the frontend, this platform provides students with a smooth testing experience and administrators with complete control over exam management.
 
-## Available Scripts
+The objective of CryptoProctor is to enhance the security, reliability, and trustworthiness of online exams by utilizing blockchain technology. By addressing critical issues such as
+cheating, data tampering, and identity theft, the project aims to provide a secure, auditable, and immutable platform for online assessments. 
 
-In the project directory, you can run:
+### 🚀 Key Features
+ User Authentication: Secure login for Admin, Student, and Examiner roles.
 
-### `npm start`
+🧩 Exam Management: Create, schedule, and manage exams with flexible question types (MCQ, short answers, etc.).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+📸 AI Proctoring: Detects face absence, multiple faces, and background noise.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🔐 Blockchain-Inspired Security: Ensures tamper-proof question papers and result records.
 
-### `npm test`
+📊 Admin Dashboard: Real-time monitoring of active exams and candidate analytics.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🧾 Result Evaluation: Auto-grading with detailed result reports.
 
-### `npm run build`
+📧 Email Notifications: Automatic exam updates and score alerts.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🌐 Responsive Frontend: React + Tailwind CSS for modern UI/UX.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🗄️ Database: MySQL integration for user, exam, and result management.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### 🧰 Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Frontend: React.js, Tailwind CSS
+Backend: Spring Boot (Java), REST API
+Database: MySQL
+AI Tools: OpenCV / TensorFlow (for face & cheat detection)
+Security: JWT Authentication, Blockchain-based data integrity logic
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### ⚙️ Setup Instructions
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Clone the repository
 
-## Learn More
+git clone https://github.com/<your-username>/CryptoProctor.git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Navigate to backend and run the Spring Boot app
 
-### Code Splitting
+mvn spring-boot:run
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+Navigate to frontend and start the React app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+npm install  
+npm start
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Configure application.properties for your MySQL database.
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### 📘 Future Enhancements
 
-### Deployment
+AI-based cheating behavior detection (eye tracking, mobile usage detection)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Blockchain-backed exam result verification
 
-### `npm run build` fails to minify
+Multi-language exam support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Cloud deployment (AWS/Azure/GCP)
+
+
+## 👨‍💻 Developed by:
+
+Anand B
+MCA Graduate | Full-Stack Java Developer | CRYPTOPROCTOR IN ELEVATING ONLINE EXAMS THROUGH BLOCKCHAIN TECHNOLOGY
+
+
+
