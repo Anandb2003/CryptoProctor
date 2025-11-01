@@ -1,4 +1,4 @@
-# CryptoProctor –  CRYPTOPROCTOR IN ELEVATING ONLINE EXAMS THROUGH BLOCKCHAIN TECHNOLOGY
+# CryptoProctor –  Cryptoproctor In Elevating Online Through Blockchain Technology
 
 ## Description:
 CryptoProctor is a secure,Blockchain Based on online examination system designed to conduct, monitor, and evaluate exams remotely. It integrates blockchain-inspired security, face detection, and real-time proctoring to ensure exam integrity. Built using Java (Spring Boot) for the backend and React.js for the frontend, this platform provides students with a smooth testing experience and administrators with complete control over exam management.
@@ -42,12 +42,12 @@ Clone the repository
 git clone https://github.com/<your-username>/CryptoProctor.git
 
 
-Navigate to backend and run the Spring Boot app
+### Navigate to backend and run the Spring Boot app
 
 mvn spring-boot:run
 
 
-Navigate to frontend and start the React app
+### Navigate to frontend and start the React app
 
 npm install  
 npm start
@@ -70,7 +70,7 @@ Cloud deployment (AWS/Azure/GCP)
 ## 👨‍💻 Developed by:
 
 Anand B
-MCA Graduate | Full-Stack Java Developer | CRYPTOPROCTOR IN ELEVATING ONLINE EXAMS THROUGH BLOCKCHAIN TECHNOLOGY
+MCA Graduate | Full-Stack Java Developer | Cryptoproctor In Elevating Online Through Blockchain Technology
 
 
 
