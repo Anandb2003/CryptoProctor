@@ -75,8 +75,7 @@ MCA Graduate | Full-Stack Java Developer | Cryptoproctor In Elevating Online Thr
 
 
 <img width="1917" height="1017" alt="Screenshot 2025-04-06 190912" src="https://github.com/user-attachments/assets/a0877d78-2bf8-4f5b-9a21-e5cdb0852727" />
-<img width="1919" height="1019" alt="Screenshot 2025-04-06 194100" src="https://github.com/user-attachments/assets/04dffa6d-fd0e-48de-9d3d-c39628de3043" />
-<img width="1919" height="1014" alt="Screenshot 2025-04-06 193957" src="https://github.com/user-attachments/assets/99ab1021-d343-4ba7-8987-08fee9d72066" />
 <img width="1919" height="1018" alt="Screenshot 2025-04-06 193939" src="https://github.com/user-attachments/assets/f0315579-91b1-4226-b868-9a3de7e99a75" />
 <img width="1919" height="1012" alt="Screenshot 2025-04-06 190946" src="https://github.com/user-attachments/assets/dcfddbfa-ff43-41fb-b383-8498157c67e8" />
+<img width="1919" height="1014" alt="Screenshot 2025-04-06 193957" src="https://github.com/user-attachments/assets/99ab1021-d343-4ba7-8987-08fee9d72066" />
 <img width="1919" height="1022" alt="Screenshot 2025-04-06 194115" src="https://github.com/user-attachments/assets/2fda1e74-ffac-4456-8fc4-2b7628ae144d" />
